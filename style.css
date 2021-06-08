@@ -1,0 +1,38 @@
+.main{
+  background-image: url("image/bg.jpg");
+  color:black;
+}
+.black{
+  background-color: #38373b;
+  color: #000;
+  margin: auto;
+  
+}
+.table-row{
+  font-style: oblique;
+  font-size: 3rem;
+  color:#fff;
+  font-family: sans-serif;
+}
+.text-center{
+  color: #fff;
+  font-size: 2rem;
+  font-family: serif;
+}
+.color{
+  color: #fff;
+  font-size: 2rem;
+}
+
+
+.sb{
+  color: #fff;
+  font-size: 8rem;
+  text-align: center;
+  font-style: oblique;
+  font-family: serif;
+}
+td{
+  text-align: center;
+  color: #fff;
+}
